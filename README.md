@@ -1,4 +1,4 @@
-![Banner](https://github.com/Janaka27/Janaka27/blob/main/10136775_17973908.jpg)
+![Banner](https://github.com/Janaka27/Janaka27/blob/main/banner.jpg)
 
 
 # 💻 Tech Stack:
